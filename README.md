@@ -1,9 +1,9 @@
 ### 👋 Hi there, I am Johannes (@JoeG777)
-I am a **Computer Science** student at University of Applied Sciences Mannheim [@informatik-mannheim](https://github.com/informatik-mannheim/).
+I am a **Cloud Applications and Security Engineering** student at [Technische Hochschule Ingolstadt](https://www.thi.de).
 
 - 💻 My programming language of choice is **python** (although I am deeply afraid of snakes 🐍)
 - 📈 My domain of choice is **financial data** (especially my own spending)
-- ☁️ My subject I am currently learning is basic **cloud computing** with AWS and **time series forecasting**
+- ☁️ The subject I am currently learning is basic **cloud computing** and **security in modern networks**
 
 ---
 
@@ -17,8 +17,9 @@ I am a **Computer Science** student at University of Applied Sciences Mannheim [
 
 ### 🛠️ Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="FastAPI" width="26px" src="" />
+<img align="left" alt="Docker" width="26px" src="" />
 <img align="left" alt="Pandas" width="26px" src="https://github.com/JoeG777/spending_data_preprocessing/blob/master/docs/pandas-library.png" />
-<img align="left" alt="Statsmodels" width="26px" src="https://github.com/JoeG777/spending_data_preprocessing/blob/master/docs/statsmodels-library.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
